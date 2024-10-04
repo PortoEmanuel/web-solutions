@@ -12,10 +12,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-image: url('/static/img/fundo.png');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+background-color: black;
     
 }
 
@@ -102,10 +99,8 @@ div {
 
     body {
         font-family: Arial, sans-serif;
-        background-image: url('/static/img/fundo.png');
-        background-position: center;
-        background-repeat: no-repeat;
-        background-attachment: fixed;
+        background-color: black;
+
 
     }
 
